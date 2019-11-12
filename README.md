@@ -1,2 +1,2 @@
-# PublicPriject_communalpayments
+# Communal-payments
 sending communal meters values to private consumer pages in web sites using Selenium API
