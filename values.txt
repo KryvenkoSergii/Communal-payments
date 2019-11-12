@@ -1,0 +1,4 @@
+Value of gas: 695;
+Value of water: 1249
+Value of electricity day: 2534  
+Value of electricity night: 1305
