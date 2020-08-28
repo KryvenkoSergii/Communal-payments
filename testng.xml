@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+
+<suite name="Test of sites for communal payments">
+
+	<!-- 3 ERROR 5 WARNING 7 INFO 9 TRACE -->
+	<test name="Smoke Test" verbose="7">
+		<classes>
+			<class name="home.kryvenkosergii.communalpayments.ui.tests.LOESiteTest" />
+			<class name="home.kryvenkosergii.communalpayments.ui.tests.Gas104UASiteTest" />
+			<class name="home.kryvenkosergii.communalpayments.ui.tests.InfoLvivSiteTest" />
+		</classes>
+	</test> <!-- Test -->
+
+</suite> <!-- Suite -->
