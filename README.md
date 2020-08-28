@@ -16,4 +16,4 @@ sending communal meters values to private consumer pages in web sites using Sele
 
 <p>Also you need input your current meters values to file 'values.txt'.<p/>
 <p>Warning! This version of the program, for sending electricity values, works with a 2-tariff electricity meter. If you need to enter only a one day value of electricity, in 'InputCommunalPayments' and 
-'LOESiteTest' classes you need use 'UserRepository.get().userLOECredentialsOnlyDayValue()'.<p/>
+'LOESiteTest' classes you need to use 'UserRepository.get().userLOECredentialsOnlyDayValue()'.<p/>
