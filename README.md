@@ -4,7 +4,7 @@ sending communal meters values to private consumer pages in web sites using Sele
 <p> Electricity: https://info.loe.lviv.ua<p\>
 <p> Gas: https://104.ua<p\>
 <p> Water: https://infolviv.com.ua<p\>
-<p> On system preferences you need indicate:
+<p> On environment variables you need indicate:
 
 	- your email which you use as user name ('USER_EMAIL');
 	- password for LOE (https://info.loe.lviv.ua) site ('LOE_SITE_PASSWORD');
